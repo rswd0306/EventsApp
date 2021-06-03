@@ -1,0 +1,2270 @@
+{
+  "events": [
+    {
+      "type": "minor_league_baseball",
+      "id": 5393399,
+      "datetime_utc": "2021-06-02T22:30:00",
+      "venue": {
+        "state": "FL",
+        "name_v2": "George M. Steinbrenner Field",
+        "postal_code": "33614",
+        "name": "George M. Steinbrenner Field",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/george-m-steinbrenner-field/tickets",
+        "score": 0.746428,
+        "location": {
+          "lat": 27.9798,
+          "lon": -82.5072
+        },
+        "address": "1 Steinbrenner Drive",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 48,
+        "city": "Tampa",
+        "slug": "george-m-steinbrenner-field",
+        "extended_address": "Tampa, FL 33614",
+        "id": 3937,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 539,
+        "capacity": 11026,
+        "display_location": "Tampa, FL"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "minor_league_baseball",
+          "name": "Tampa Tarpons",
+          "image": "https://seatgeek.com/images/performers-landscape/tampa-tarpons-865243/9916/huge.jpg",
+          "id": 9916,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/tampa-tarpons-865243/9916/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 47
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/tampa-tarpons-tickets",
+          "score": 0.35,
+          "slug": "tampa-tarpons",
+          "home_venue_id": 3937,
+          "short_name": "Tampa Yankees",
+          "num_upcoming_events": 47,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 27.9798,
+            "lon": -82.5072
+          }
+        },
+        {
+          "type": "minor_league_baseball",
+          "name": "Lakeland Flying Tigers",
+          "image": "https://seatgeek.com/images/performers-landscape/lakeland-flying-tigers-e954f4/9431/huge.jpg",
+          "id": 9431,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/lakeland-flying-tigers-e954f4/9431/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 17
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "https://www.flickr.com/photos/hueytaxi/14022778699/in/photolist-nn9pyx-ezdZoM-nDmjxT-eze4EF-nDCsEL-nBAxo1-nFqAqX-ezdZWT-eze6fz-nBAGJq-nFqyrr-nDD9Ba-nDDedp-nn9Aea-nBAEk7-nn9Kj5-eze1qa-nn9rQA-nn9x5V-nDqxif-nn9PSk-eKUear-bC3XqA-eL6CSY-ngGDp2-oHZsFr-e6dpg3-d9amUG-ot4yxU-oYs1Z7-epzy5X-doDPi3-ngGGGL-oHYYs4-bUXKxL-p1rMW7-oHZmgA-fGaqum-e4S21A-fFSvLM-e4S1FE-epzAKB-oHZyNC-eL6zFq-epzyKF-oHZ4p8-oHZAC8-or46WJ-e4S1SL-p1tE1r",
+          "url": "https://seatgeek.com/lakeland-flying-tigers-tickets",
+          "score": 0.35,
+          "slug": "lakeland-flying-tigers",
+          "home_venue_id": 3929,
+          "short_name": "Lakeland Flying Tigers",
+          "num_upcoming_events": 17,
+          "colors": null,
+          "image_license": "https://creativecommons.org/licenses/by/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 28.0739,
+            "lon": -81.9533
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T18:30:00",
+      "time_tbd": false,
+      "short_title": "Lakeland Flying Tigers at Tampa Tarpons",
+      "visible_until_utc": "2021-06-03T02:30:00",
+      "stats": {
+        "listing_count": 2,
+        "average_price": 57,
+        "lowest_price_good_deals": 44,
+        "lowest_price": 45,
+        "highest_price": 70,
+        "visible_listing_count": 2,
+        "dq_bucket_counts": [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "median_price": 45,
+        "lowest_sg_base_price": 30,
+        "lowest_sg_base_price_good_deals": 30
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010300,
+          "name": "minor_league_baseball",
+          "parent_id": 1010000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/lakeland-flying-tigers-at-tampa-tarpons-tickets/minor-league-baseball/2021-06-02-6-30-pm/5393399",
+      "score": 0.403,
+      "announce_date": "2021-04-29T00:00:00",
+      "created_at": "2021-04-29T16:01:19",
+      "date_tbd": false,
+      "title": "Lakeland Flying Tigers at Tampa Tarpons",
+      "popularity": 0.641,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "minor_league_baseball",
+      "id": 5390725,
+      "datetime_utc": "2021-06-02T22:35:00",
+      "venue": {
+        "state": "PA",
+        "name_v2": "PNC Field",
+        "postal_code": "18505",
+        "name": "PNC Field",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/pnc-field/tickets",
+        "score": 0.378932,
+        "location": {
+          "lat": 41.3606,
+          "lon": -75.6854
+        },
+        "address": "235 Montage Mountain Road",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 48,
+        "city": "Scranton",
+        "slug": "pnc-field",
+        "extended_address": "Scranton, PA 18505",
+        "id": 5226,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 577,
+        "capacity": 10000,
+        "display_location": "Scranton, PA"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "minor_league_baseball",
+          "name": "Scranton Wilkes-Barre RailRiders",
+          "image": "https://seatgeek.com/images/performers-landscape/scranton-wilkes-barre-railriders-9fe15b/9261/huge.jpg",
+          "id": 9261,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/scranton-wilkes-barre-railriders-9fe15b/9261/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 81
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/scranton-wilkes-barre-railriders-tickets",
+          "score": 0.36,
+          "slug": "scranton-wilkes-barre-railriders",
+          "home_venue_id": 5226,
+          "short_name": "Scranton RailRiders",
+          "num_upcoming_events": 81,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 41.3606,
+            "lon": -75.6854
+          }
+        },
+        {
+          "type": "minor_league_baseball",
+          "name": "Lehigh Valley IronPigs",
+          "image": "https://seatgeek.com/images/performers-landscape/lehigh-valley-ironpigs-85c292/9248/huge.jpg",
+          "id": 9248,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/lehigh-valley-ironpigs-85c292/9248/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 83
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/lehigh-valley-ironpigs-tickets",
+          "score": 0.38,
+          "slug": "lehigh-valley-ironpigs",
+          "home_venue_id": 381,
+          "short_name": "Lehigh Valley IronPigs",
+          "num_upcoming_events": 83,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 40.6259,
+            "lon": -75.4527
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T18:35:00",
+      "time_tbd": false,
+      "short_title": "Lehigh Valley IronPigs at Scranton Wilkes-Barre RailRiders",
+      "visible_until_utc": "2021-06-03T02:35:00",
+      "stats": {
+        "listing_count": 56,
+        "average_price": 34,
+        "lowest_price_good_deals": null,
+        "lowest_price": 15,
+        "highest_price": 55,
+        "visible_listing_count": 55,
+        "dq_bucket_counts": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "median_price": 33,
+        "lowest_sg_base_price": 6,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010300,
+          "name": "minor_league_baseball",
+          "parent_id": 1010000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/lehigh-valley-ironpigs-at-scranton-wilkes-barre-railriders-tickets/minor-league-baseball/2021-06-02-6-35-pm/5390725",
+      "score": 0.367,
+      "announce_date": "2021-04-25T00:00:00",
+      "created_at": "2021-04-25T16:00:54",
+      "date_tbd": false,
+      "title": "Lehigh Valley IronPigs at Scranton Wilkes-Barre RailRiders",
+      "popularity": 0.619,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "minor_league_baseball",
+      "id": 5383091,
+      "datetime_utc": "2021-06-02T22:35:00",
+      "venue": {
+        "state": "NH",
+        "name_v2": "Northeast Delta Dental Stadium",
+        "postal_code": "03101",
+        "name": "Northeast Delta Dental Stadium",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/northeast-delta-dental-stadium/tickets",
+        "score": 0.292425,
+        "location": {
+          "lat": 42.982,
+          "lon": -71.4666
+        },
+        "address": "1 Line Drive",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 39,
+        "city": "Manchester",
+        "slug": "northeast-delta-dental-stadium",
+        "extended_address": "Manchester, NH 03101",
+        "id": 5213,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 506,
+        "capacity": 0,
+        "display_location": "Manchester, NH"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "minor_league_baseball",
+          "name": "New Hampshire Fisher Cats",
+          "image": "https://seatgeek.com/images/performers-landscape/new-hampshire-fisher-cats-604706/9240/huge.jpg",
+          "id": 9240,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/new-hampshire-fisher-cats-604706/9240/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 48
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/new-hampshire-fisher-cats-tickets",
+          "score": 0.33,
+          "slug": "new-hampshire-fisher-cats",
+          "home_venue_id": 5213,
+          "short_name": "New Hampshire Fisher Cats",
+          "num_upcoming_events": 48,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 42.982,
+            "lon": -71.4666
+          }
+        },
+        {
+          "type": "minor_league_baseball",
+          "name": "Binghamton Mets",
+          "image": "https://seatgeek.com/images/performers-landscape/binghamton-mets-d343e8/9263/huge.jpg",
+          "id": 9263,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/binghamton-mets-d343e8/9263/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 23
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/binghamton-mets-tickets",
+          "score": 0.32,
+          "slug": "binghamton-mets",
+          "home_venue_id": 439901,
+          "short_name": "Rumble Ponies",
+          "num_upcoming_events": 23,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 42.1024,
+            "lon": -75.9049
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T18:35:00",
+      "time_tbd": false,
+      "short_title": "Binghamton Mets at New Hampshire Fisher Cats",
+      "visible_until_utc": "2021-06-03T02:35:00",
+      "stats": {
+        "listing_count": 12,
+        "average_price": 16,
+        "lowest_price_good_deals": null,
+        "lowest_price": 12,
+        "highest_price": 35,
+        "visible_listing_count": 12,
+        "dq_bucket_counts": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "median_price": 13,
+        "lowest_sg_base_price": 5,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010300,
+          "name": "minor_league_baseball",
+          "parent_id": 1010000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/binghamton-mets-at-new-hampshire-fisher-cats-tickets/minor-league-baseball/2021-06-02-6-35-pm/5383091",
+      "score": 0.388,
+      "announce_date": "2019-09-20T00:00:00",
+      "created_at": "2021-04-06T16:01:32",
+      "date_tbd": false,
+      "title": "Binghamton Mets at New Hampshire Fisher Cats",
+      "popularity": 0.586,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "minor_league_baseball",
+      "id": 5378362,
+      "datetime_utc": "2021-06-02T22:35:00",
+      "venue": {
+        "state": "OH",
+        "name_v2": "Canal Park",
+        "postal_code": "44308",
+        "name": "Canal Park",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/canal-park/tickets",
+        "score": 0.372141,
+        "location": {
+          "lat": 41.0774,
+          "lon": -81.5215
+        },
+        "address": "300 South Main Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 47,
+        "city": "Akron",
+        "slug": "canal-park",
+        "extended_address": "Akron, OH 44308",
+        "id": 7326,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 510,
+        "capacity": 7630,
+        "display_location": "Akron, OH"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "minor_league_baseball",
+          "name": "Akron RubberDucks",
+          "image": "https://seatgeek.com/images/performers-landscape/akron-rubberducks-47f88b/9252/huge.jpg",
+          "id": 9252,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/akron-rubberducks-47f88b/9252/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 77
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/akron-rubberducks-tickets",
+          "score": 0.31,
+          "slug": "akron-rubberducks",
+          "home_venue_id": 7326,
+          "short_name": "Akron Aeros",
+          "num_upcoming_events": 77,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 41.0774,
+            "lon": -81.5215
+          }
+        },
+        {
+          "type": "minor_league_baseball",
+          "name": "Erie SeaWolves",
+          "image": "https://seatgeek.com/images/performers-landscape/erie-seawolves-82c148/9293/huge.jpg",
+          "id": 9293,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/erie-seawolves-82c148/9293/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 68
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/erie-seawolves-tickets",
+          "score": 0.32,
+          "slug": "erie-seawolves",
+          "home_venue_id": 7389,
+          "short_name": "Erie SeaWolves",
+          "num_upcoming_events": 68,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 42.1271,
+            "lon": -80.0802
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T18:35:00",
+      "time_tbd": false,
+      "short_title": "Erie SeaWolves at Akron RubberDucks",
+      "visible_until_utc": "2021-06-03T02:35:00",
+      "stats": {
+        "listing_count": 26,
+        "average_price": 42,
+        "lowest_price_good_deals": null,
+        "lowest_price": 24,
+        "highest_price": 63,
+        "visible_listing_count": 26,
+        "dq_bucket_counts": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "median_price": 43,
+        "lowest_sg_base_price": 14,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010300,
+          "name": "minor_league_baseball",
+          "parent_id": 1010000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/erie-seawolves-at-akron-rubberducks-tickets/minor-league-baseball/2021-06-02-6-35-pm/5378362",
+      "score": 0.37,
+      "announce_date": "2019-11-18T00:00:00",
+      "created_at": "2021-03-18T16:01:17",
+      "date_tbd": false,
+      "title": "Erie SeaWolves at Akron RubberDucks",
+      "popularity": 0.608,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "minor_league_baseball",
+      "id": 5378279,
+      "datetime_utc": "2021-06-02T22:35:00",
+      "venue": {
+        "state": "NC",
+        "name_v2": "Durham Bulls Athletic Park",
+        "postal_code": "27701",
+        "name": "Durham Bulls Athletic Park",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/durham-bulls-athletic-park/tickets",
+        "score": 0.451001,
+        "location": {
+          "lat": 35.9916,
+          "lon": -78.904
+        },
+        "address": "409 Blackwell St",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 43,
+        "city": "Durham",
+        "slug": "durham-bulls-athletic-park",
+        "extended_address": "Durham, NC 27701",
+        "id": 387,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 560,
+        "capacity": 10000,
+        "display_location": "Durham, NC"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "minor_league_baseball",
+          "name": "Durham Bulls",
+          "image": "https://seatgeek.com/images/performers-landscape/durham-bulls-3377e3/9265/huge.jpg",
+          "id": 9265,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/durham-bulls-3377e3/9265/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 80
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/durham-bulls-tickets",
+          "score": 0.42,
+          "slug": "durham-bulls",
+          "home_venue_id": 387,
+          "short_name": "Durham Bulls",
+          "num_upcoming_events": 80,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 35.9916,
+            "lon": -78.904
+          }
+        },
+        {
+          "type": "minor_league_baseball",
+          "name": "Norfolk Tides",
+          "image": "https://seatgeek.com/images/performers-landscape/norfolk-tides-aff8bb/9268/huge.jpg",
+          "id": 9268,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/norfolk-tides-aff8bb/9268/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 76
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/norfolk-tides-tickets",
+          "score": 0.42,
+          "slug": "norfolk-tides",
+          "home_venue_id": 386,
+          "short_name": "Norfolk Tides",
+          "num_upcoming_events": 76,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 36.8426,
+            "lon": -76.2787
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T18:35:00",
+      "time_tbd": false,
+      "short_title": "Norfolk Tides at Durham Bulls",
+      "visible_until_utc": "2021-06-03T02:35:00",
+      "stats": {
+        "listing_count": 103,
+        "average_price": 44,
+        "lowest_price_good_deals": 22,
+        "lowest_price": 22,
+        "highest_price": 62,
+        "visible_listing_count": 103,
+        "dq_bucket_counts": [
+          14,
+          12,
+          7,
+          15,
+          21,
+          27,
+          7,
+          0
+        ],
+        "median_price": 43,
+        "lowest_sg_base_price": 11,
+        "lowest_sg_base_price_good_deals": 11
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010300,
+          "name": "minor_league_baseball",
+          "parent_id": 1010000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/norfolk-tides-at-durham-bulls-tickets/minor-league-baseball/2021-06-02-6-35-pm/5378279",
+      "score": 0.445,
+      "announce_date": "2021-03-18T00:00:00",
+      "created_at": "2021-03-18T16:01:14",
+      "date_tbd": false,
+      "title": "Norfolk Tides at Durham Bulls",
+      "popularity": 0.679,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "family",
+      "id": 5389542,
+      "datetime_utc": "2021-06-02T23:00:00",
+      "venue": {
+        "state": "TX",
+        "name_v2": "H-E-B Center at Cedar Park",
+        "postal_code": "78613",
+        "name": "H-E-B Center at Cedar Park",
+        "links": [],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/h-e-b-center-at-cedar-park/tickets",
+        "score": 0.558748,
+        "location": {
+          "lat": 30.5419,
+          "lon": -97.8203
+        },
+        "address": "2100 Avenue of the Stars",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 19,
+        "city": "Cedar Park",
+        "slug": "h-e-b-center-at-cedar-park",
+        "extended_address": "Cedar Park, TX 78613",
+        "id": 869,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 635,
+        "capacity": 8500,
+        "display_location": "Cedar Park, TX"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "theater_family",
+          "name": "Baby Shark Live!",
+          "image": "https://seatgeek.com/images/performers-landscape/baby-shark-live-445f59/712321/huge.jpg",
+          "id": 712321,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/baby-shark-live-445f59/712321/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 26
+          },
+          "taxonomies": [
+            {
+              "id": 3000000,
+              "name": "theater",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 6
+            },
+            {
+              "id": 3050000,
+              "name": "family",
+              "parent_id": 3000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "https://www.pinkfong.com/en/liveshows/",
+          "url": "https://seatgeek.com/baby-shark-live-tickets",
+          "score": 0.36,
+          "slug": "baby-shark-live",
+          "home_venue_id": null,
+          "short_name": "Baby Shark Live!",
+          "num_upcoming_events": 26,
+          "colors": null,
+          "image_license": "press photos",
+          "popularity": 0,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T18:00:00",
+      "time_tbd": false,
+      "short_title": "Baby Shark Life - Cedar Park",
+      "visible_until_utc": "2021-06-03T03:00:00",
+      "stats": {
+        "listing_count": 201,
+        "average_price": 101,
+        "lowest_price_good_deals": 63,
+        "lowest_price": 63,
+        "highest_price": 260,
+        "visible_listing_count": 188,
+        "dq_bucket_counts": [
+          17,
+          43,
+          39,
+          15,
+          13,
+          22,
+          15,
+          0
+        ],
+        "median_price": 99,
+        "lowest_sg_base_price": 44,
+        "lowest_sg_base_price_good_deals": 44
+      },
+      "taxonomies": [
+        {
+          "id": 3000000,
+          "name": "theater",
+          "parent_id": null,
+          "rank": 6
+        },
+        {
+          "id": 3050000,
+          "name": "family",
+          "parent_id": 3000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/baby-shark-life-cedar-park-tickets/family/2021-06-02-6-pm/5389542",
+      "score": 0.393,
+      "announce_date": "2021-04-22T00:00:00",
+      "created_at": "2021-04-22T21:44:59",
+      "date_tbd": false,
+      "title": "Baby Shark Life - Cedar Park",
+      "popularity": 0.633,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "minor_league_hockey",
+      "id": 5366561,
+      "datetime_utc": "2021-06-02T23:00:00",
+      "venue": {
+        "state": "IN",
+        "name_v2": "Indiana Farmers Coliseum",
+        "postal_code": "46205",
+        "name": "Indiana Farmers Coliseum",
+        "links": [],
+        "timezone": "America/Indiana/Indianapolis",
+        "url": "https://seatgeek.com/venues/indiana-farmers-coliseum/tickets",
+        "score": 0.547249,
+        "location": {
+          "lat": 39.8273,
+          "lon": -86.1348
+        },
+        "address": "1202 E. 38th St",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 14,
+        "city": "Indianapolis",
+        "slug": "indiana-farmers-coliseum",
+        "extended_address": "Indianapolis, IN 46205",
+        "id": 1607,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 527,
+        "capacity": 6800,
+        "display_location": "Indianapolis, IN"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "minor_league_hockey",
+          "name": "Indy Fuel",
+          "image": "https://seatgeek.com/images/performers-landscape/indy-fuel-115930/289717/huge.jpg",
+          "id": 289717,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/indy-fuel-115930/289717/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 8
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1040000,
+              "name": "hockey",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1040300,
+              "name": "minor_league_hockey",
+              "parent_id": 1040000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "https://www.indyfuelhockey.com/shop/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/n/indy_fuel_-_sample_patch_-_primary.jpg",
+          "url": "https://seatgeek.com/indy-fuel-tickets",
+          "score": 0.33,
+          "slug": "indy-fuel",
+          "home_venue_id": 1607,
+          "short_name": "Indy Fuel",
+          "num_upcoming_events": 8,
+          "colors": null,
+          "image_license": "official website",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 39.8273,
+            "lon": -86.1348
+          }
+        },
+        {
+          "type": "minor_league_hockey",
+          "name": "Kansas City Mavericks",
+          "image": "https://seatgeek.com/images/performers-landscape/kansas-city-mavericks-1-168d12/435629/huge.jpg",
+          "id": 435629,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/kansas-city-mavericks-1-168d12/435629/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 6
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1040000,
+              "name": "hockey",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1040300,
+              "name": "minor_league_hockey",
+              "parent_id": 1040000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/kansas-city-mavericks-1-tickets",
+          "score": 0.34,
+          "slug": "kansas-city-mavericks-1",
+          "home_venue_id": 1445,
+          "short_name": "Kansas City Mavericks",
+          "num_upcoming_events": 6,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 39.0401,
+            "lon": -94.3566
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T19:00:00",
+      "time_tbd": false,
+      "short_title": "Kansas City Mavericks at Indy Fuel",
+      "visible_until_utc": "2021-06-03T03:00:00",
+      "stats": {
+        "listing_count": 126,
+        "average_price": 63,
+        "lowest_price_good_deals": 17,
+        "lowest_price": 17,
+        "highest_price": 97,
+        "visible_listing_count": 124,
+        "dq_bucket_counts": [
+          9,
+          18,
+          30,
+          22,
+          14,
+          25,
+          11,
+          0
+        ],
+        "median_price": 58,
+        "lowest_sg_base_price": 8,
+        "lowest_sg_base_price_good_deals": 8
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1040000,
+          "name": "hockey",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1040300,
+          "name": "minor_league_hockey",
+          "parent_id": 1040000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/kansas-city-mavericks-at-indy-fuel-tickets/minor-league-hockey/2021-06-02-7-pm/5366561",
+      "score": 0.347,
+      "announce_date": "2021-02-12T00:00:00",
+      "created_at": "2021-02-12T16:00:44",
+      "date_tbd": false,
+      "title": "Kansas City Mavericks at Indy Fuel",
+      "popularity": 0.607,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "nba",
+      "id": 5399174,
+      "datetime_utc": "2021-06-02T23:00:00",
+      "venue": {
+        "state": "PA",
+        "name_v2": "Wells Fargo Center",
+        "postal_code": "19148",
+        "name": "Wells Fargo Center",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/wells-fargo-center/tickets",
+        "score": 0.815461,
+        "location": {
+          "lat": 39.9012,
+          "lon": -75.172
+        },
+        "address": "3601 South Broad Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 33,
+        "city": "Philadelphia",
+        "slug": "wells-fargo-center",
+        "extended_address": "Philadelphia, PA 19148",
+        "id": 3148,
+        "popularity": 0,
+        "access_method": {
+          "method": "QRCODE",
+          "created_at": "2017-11-04T00:41:18Z",
+          "employee_only": false
+        },
+        "metro_code": 504,
+        "capacity": 21000,
+        "display_location": "Philadelphia, PA"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "nba",
+          "name": "Philadelphia 76ers",
+          "image": "https://seatgeek.com/images/performers-landscape/generic-nba-basketball-3b868a/677206/27797/huge.jpg",
+          "id": 2091,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-nba-basketball-3b868a/677206/27797/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1030100,
+              "short_name": null,
+              "display_name": "Eastern Conference",
+              "display_type": "Conference",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1030100,
+              "short_name": "Atlantic",
+              "display_name": "Eastern - Atlantic",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "eastern-atlantic"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 15
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1030000,
+              "name": "basketball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1030100,
+              "name": "nba",
+              "parent_id": 1030000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "null",
+          "url": "https://seatgeek.com/philadelphia-76ers-tickets",
+          "score": 0.66,
+          "slug": "philadelphia-76ers",
+          "home_venue_id": 3148,
+          "short_name": "76ers",
+          "num_upcoming_events": 15,
+          "colors": {
+            "all": [
+              "#0841A3",
+              "#DA0B36",
+              "#0841A3"
+            ],
+            "iconic": "#0841A3",
+            "primary": [
+              "#0841A3",
+              "#DA0B36"
+            ]
+          },
+          "image_license": "null",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 39.9012,
+            "lon": -75.172
+          }
+        },
+        {
+          "type": "nba",
+          "name": "Washington Wizards",
+          "image": "https://seatgeek.com/images/performers-landscape/washington-wizards-b66161/2102/huge.jpg",
+          "id": 2102,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/washington-wizards-b66161/2102/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1030100,
+              "short_name": null,
+              "display_name": "Eastern Conference",
+              "display_type": "Conference",
+              "division_level": 1,
+              "slug": null
+            },
+            {
+              "taxonomy_id": 1030100,
+              "short_name": "Southeast",
+              "display_name": "Eastern - Southeast",
+              "display_type": "Division",
+              "division_level": 2,
+              "slug": "eastern-southeast"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 15
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1030000,
+              "name": "basketball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1030100,
+              "name": "nba",
+              "parent_id": 1030000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "nullhttps://www.flickr.com/photos/eviltomthai/5225619246/in/photolist-8XLExy-mAR9kt-9hM6HN-76g3iJ-eXUr8G-eXH2kc-7ecJnY-7edmxo-7ddVAp-5CULfS-5CQscz-67euft-67ev2t-67iJ9A-4JQvZV-67eweM-5Ff83g-4waWEi-4CEF2g-4JVGSo-8XLGxE-8XHFu8-8XHHAV-9hMi3w-9hJczg-eXH2GZ-9eH3JR-jf8yPk-66Vjf6-5EPmdv-bQTu84-bQTueg-bQTuj4-imPju9-922jke-erfZD-9eLa6j-dHhBQJ-dHhCTY-pS5En8-dHhDjU-dHccSK-dHhFUJ-dHcfUk-dHceGn-dHcf9r-dHcein-pvPX3R-oLc94h-5ATHtz",
+          "url": "https://seatgeek.com/washington-wizards-tickets",
+          "score": 0.67,
+          "slug": "washington-wizards",
+          "home_venue_id": 181,
+          "short_name": "Wizards",
+          "num_upcoming_events": 15,
+          "colors": {
+            "all": [
+              "#002A5C",
+              "#E31837",
+              "#002A5C"
+            ],
+            "iconic": "#002A5C",
+            "primary": [
+              "#002A5C",
+              "#E31837"
+            ]
+          },
+          "image_license": "https://creativecommons.org/licenses/by/2.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 38.8981,
+            "lon": -77.0209
+          }
+        },
+        {
+          "type": "nba",
+          "name": "NBA Playoffs",
+          "image": "https://seatgeek.com/images/performers-landscape/nba-playoffs-b0f804/787992/huge.jpg",
+          "id": 787992,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/nba-playoffs-b0f804/787992/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 198
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1030000,
+              "name": "basketball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1030100,
+              "name": "nba",
+              "parent_id": 1030000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 2
+            }
+          ],
+          "image_attribution": "null",
+          "url": "https://seatgeek.com/nba-playoffs-tickets",
+          "score": 0.41,
+          "slug": "nba-playoffs",
+          "home_venue_id": null,
+          "short_name": "NBA Playoffs",
+          "num_upcoming_events": 198,
+          "colors": null,
+          "image_license": "null",
+          "popularity": 0,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T19:00:00",
+      "time_tbd": false,
+      "short_title": "1st Rnd: Wizards at 76ers - Game 5",
+      "visible_until_utc": "2021-06-03T03:00:00",
+      "stats": {
+        "listing_count": 178,
+        "average_price": 228,
+        "lowest_price_good_deals": 102,
+        "lowest_price": 91,
+        "highest_price": 925,
+        "visible_listing_count": 172,
+        "dq_bucket_counts": [
+          17,
+          47,
+          45,
+          16,
+          12,
+          18,
+          19,
+          0
+        ],
+        "median_price": 175,
+        "lowest_sg_base_price": 66,
+        "lowest_sg_base_price_good_deals": 75
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1030000,
+          "name": "basketball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1030100,
+          "name": "nba",
+          "parent_id": 1030000,
+          "rank": 2
+        }
+      ],
+      "url": "https://seatgeek.com/first-round-washington-wizards-at-philadelphia-76ers-game-5-tickets/6-2-2021-philadelphia-pennsylvania-wells-fargo-center/nba/5399174",
+      "score": 0.772,
+      "announce_date": "2021-05-07T00:00:00",
+      "created_at": "2021-05-07T20:38:33",
+      "date_tbd": false,
+      "title": "First Round: Washington Wizards at Philadelphia 76ers - Game 5",
+      "popularity": 0.915,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "QRCODE",
+        "created_at": "2017-11-04T00:41:18Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "minor_league_baseball",
+      "id": 5383137,
+      "datetime_utc": "2021-06-02T23:00:00",
+      "venue": {
+        "state": "KY",
+        "name_v2": "Louisville Slugger Field",
+        "postal_code": "40202",
+        "name": "Louisville Slugger Field",
+        "links": [],
+        "timezone": "America/Kentucky/Louisville",
+        "url": "https://seatgeek.com/venues/louisville-slugger-field/tickets",
+        "score": 0.336903,
+        "location": {
+          "lat": 38.2556,
+          "lon": -85.7442
+        },
+        "address": "401 East Main Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 35,
+        "city": "Louisville",
+        "slug": "louisville-slugger-field",
+        "extended_address": "Louisville, KY 40202",
+        "id": 377,
+        "popularity": 0,
+        "access_method": {
+          "method": "QRCODE",
+          "created_at": "2019-03-05T18:35:15Z",
+          "employee_only": false
+        },
+        "metro_code": 529,
+        "capacity": 13131,
+        "display_location": "Louisville, KY"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "minor_league_baseball",
+          "name": "Louisville Bats",
+          "image": "https://seatgeek.com/images/performers-landscape/louisville-bats-7c9f6a/9239/huge.jpg",
+          "id": 9239,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/louisville-bats-7c9f6a/9239/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 83
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/louisville-bats-tickets",
+          "score": 0.39,
+          "slug": "louisville-bats",
+          "home_venue_id": 377,
+          "short_name": "Louisville Bats",
+          "num_upcoming_events": 83,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 38.2556,
+            "lon": -85.7442
+          }
+        },
+        {
+          "type": "minor_league_baseball",
+          "name": "St. Paul Saints\t",
+          "image": "https://seatgeek.com/images/performers-landscape/st-paul-saints-8af5d1/15655/huge.jpg",
+          "id": 15655,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/st-paul-saints-8af5d1/15655/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 91
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/st-paul-saints-tickets",
+          "score": 0.45,
+          "slug": "st-paul-saints",
+          "home_venue_id": 77980,
+          "short_name": "St. Paul Saints\t",
+          "num_upcoming_events": 91,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 44.9505,
+            "lon": -93.0851
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T19:00:00",
+      "time_tbd": false,
+      "short_title": "St. Paul Saints at Louisville Bats",
+      "visible_until_utc": "2021-06-03T03:00:00",
+      "stats": {
+        "listing_count": 40,
+        "average_price": 46,
+        "lowest_price_good_deals": 53,
+        "lowest_price": 42,
+        "highest_price": 58,
+        "visible_listing_count": 40,
+        "dq_bucket_counts": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          49,
+          0
+        ],
+        "median_price": 42,
+        "lowest_sg_base_price": 27,
+        "lowest_sg_base_price_good_deals": 37
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010300,
+          "name": "minor_league_baseball",
+          "parent_id": 1010000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/st-paul-saints-at-louisville-bats-tickets/minor-league-baseball/2021-06-02-7-pm/5383137",
+      "score": 0.5,
+      "announce_date": "2019-11-06T00:00:00",
+      "created_at": "2021-04-06T16:01:39",
+      "date_tbd": false,
+      "title": "St. Paul Saints at Louisville Bats",
+      "popularity": 0.699,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "QRCODE",
+        "created_at": "2019-03-05T18:35:15Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    },
+    {
+      "type": "minor_league_baseball",
+      "id": 5370008,
+      "datetime_utc": "2021-06-02T23:04:00",
+      "venue": {
+        "state": "NC",
+        "name_v2": "BB&T Ballpark Charlotte",
+        "postal_code": "28202",
+        "name": "BB&T Ballpark Charlotte",
+        "links": [],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/bb-t-ballpark-charlotte/tickets",
+        "score": 0.590168,
+        "location": {
+          "lat": 35.2276,
+          "lon": -80.8486
+        },
+        "address": "324 S Mint St",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 47,
+        "city": "Charlotte",
+        "slug": "bb-t-ballpark-charlotte",
+        "extended_address": "Charlotte, NC 28202",
+        "id": 58761,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 517,
+        "capacity": 10200,
+        "display_location": "Charlotte, NC"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "minor_league_baseball",
+          "name": "Charlotte Knights",
+          "image": "https://seatgeek.com/images/performers-landscape/charlotte-knights-52115b/9246/huge.jpg",
+          "id": 9246,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/charlotte-knights-52115b/9246/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 86
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/charlotte-knights-tickets",
+          "score": 0.47,
+          "slug": "charlotte-knights",
+          "home_venue_id": 58761,
+          "short_name": "Charlotte Knights",
+          "num_upcoming_events": 86,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 35.2276,
+            "lon": -80.8486
+          }
+        },
+        {
+          "type": "minor_league_baseball",
+          "name": "Nashville Sounds",
+          "image": "https://seatgeek.com/images/performers-landscape/nashville-sounds-3fd2bf/9257/huge.jpg",
+          "id": 9257,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/nashville-sounds-3fd2bf/9257/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 72
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010000,
+              "name": "baseball",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1010300,
+              "name": "minor_league_baseball",
+              "parent_id": 1010000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/nashville-sounds-tickets",
+          "score": 0.37,
+          "slug": "nashville-sounds",
+          "home_venue_id": 77946,
+          "short_name": "Nashville Sounds",
+          "num_upcoming_events": 72,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 36.1732,
+            "lon": -86.7852
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [],
+      "datetime_local": "2021-06-02T19:04:00",
+      "time_tbd": false,
+      "short_title": "Nashville Sounds at Charlotte Knights",
+      "visible_until_utc": "2021-06-03T03:04:00",
+      "stats": {
+        "listing_count": 3,
+        "average_price": 38,
+        "lowest_price_good_deals": 29,
+        "lowest_price": 29,
+        "highest_price": 44,
+        "visible_listing_count": 3,
+        "dq_bucket_counts": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "median_price": 40,
+        "lowest_sg_base_price": 18,
+        "lowest_sg_base_price_good_deals": 18
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1010000,
+          "name": "baseball",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1010300,
+          "name": "minor_league_baseball",
+          "parent_id": 1010000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/nashville-sounds-at-charlotte-knights-tickets/minor-league-baseball/2021-06-02-7-04-pm/5370008",
+      "score": 0.563,
+      "announce_date": "2019-09-09T00:00:00",
+      "created_at": "2021-02-20T16:01:11",
+      "date_tbd": false,
+      "title": "Nashville Sounds at Charlotte Knights",
+      "popularity": 0.746,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {},
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [],
+      "domain_information": []
+    }
+  ],
+  "meta": {
+    "total": 50848,
+    "took": 9,
+    "page": 2,
+    "per_page": 10,
+    "geolocation": null
+  },
+  "in_hand": {}
+}
